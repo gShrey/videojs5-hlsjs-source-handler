@@ -13,6 +13,9 @@
     "hls.js": "^0.6.21",
     "videojs-quality-picker": "^0.0.3"
   },
+  "scripts": {
+    "build":"grunt build"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
